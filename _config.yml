@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://galpals.github.io
+title: galpals
+paginate: 5
